@@ -1,0 +1,25 @@
+{
+    "name": "gitbook-plugin-sequence-diagram-lastest",
+    "description": "Sequence Diagram plugin for GitBook",
+    "main": "index.js",
+    "author": {
+    "name": "webkong",
+    "email": "772930508@qq.com"
+  },
+    "version": "0.1.0",
+    "engines": {
+        "gitbook": "3.2.2"
+    },
+    "homepage": "https://github.com/gmassanek/gitbook-plugin-sequence-diagram-lastest",
+    "dependencies": {
+      "jquery": ">2.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gmassanek/gitbook-plugin-sequence-diagram-lastest.git"
+    },
+    "license": "Apache 2",
+    "bugs": {
+        "url": "https://github.com/gmassanek/gitbook-plugin-sequence-diagram-lastest/issues"
+    }
+}
