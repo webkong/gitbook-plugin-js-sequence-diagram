@@ -1,15 +1,12 @@
-Sequence Diagram Plugin for Gitbook
-==============
+# Sequence Diagram Plugin for Gitbook
 
 Install the Sequence Diagram plugin via **NPM**
-
 
 ```
 $ npm install gitbook-plugin-sequence-diagram-lastest
 ```
 
 > if you are installing globally, you may need to put `sudo` in front of the command, `sudo npm install gitbook-plugin-sequence-diagram-lastest -g`
-
 
 To use the plugin in your Gitbook project, add the plugin to the `book.json` file.
 
