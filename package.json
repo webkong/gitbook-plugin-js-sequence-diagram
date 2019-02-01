@@ -6,9 +6,9 @@
         "name": "webkong",
         "email": "772930508@qq.com"
     },
-    "version": "0.1.0",
+    "version": "1.0.1",
     "engines": {
-        "gitbook": "3.2.*"
+        "gitbook": "3.2.2"
     },
     "homepage": "https://github.com/webkong/gitbook-plugin-sequence-diagram-lastest",
     "dependencies": {
@@ -18,7 +18,7 @@
         "type": "git",
         "url": "https://github.com/webkong/gitbook-plugin-sequence-diagram-lastest.git"
     },
-    "license": "Apache 2",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/webkong/gitbook-plugin-sequence-diagram-lastest/issues"
     }
